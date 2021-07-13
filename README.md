@@ -30,7 +30,7 @@
 
 ### maxpool_2
 ![max_pool2](https://user-images.githubusercontent.com/52366841/125371854-a9f9a880-e3bc-11eb-96fa-5fdc5d641535.PNG)
-> 참고사항 : https://keras.io/api/preprocessing/image/
+
 <br>
 
 ## 4-2. Visualizing filters
@@ -42,9 +42,4 @@
 
 <br>
 
-## 4-3. Visualizing heatmaps
-![image](https://user-images.githubusercontent.com/53362054/122533159-333aeb00-d05c-11eb-85c4-03e7000cc55a.png)
 
-<br>
-
-> 참고 : https://keras.io/api/preprocessing/image/
